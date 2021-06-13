@@ -19,9 +19,9 @@ In this project, we use an ESP8266 board which is positioned in a certain place 
 
 7. **Heart rate monitor**: This is a cool project, because it measures your heart rate and then displays it through a graph on a computer web app. It uses a MAX chip to measure heart rate and the samples are passed into the ESP32 controller. It's then passed through a band pass filter and the amplitude is measured with time which is displayed. https://hackaday.io/project/164155-esp-heart-rate-monitor
 
-8. **Pi0drone**: https://hackaday.io/project/9811-pi0drone
+8. **Voice-controlled household lamps**: In this project, we create lamps that can be switched on and off through voice control. Essentially, the ESP32 microcontroller gets commands from an Amazon Echo device to toggle the lamp switch. The Amazon Echo device is paired up with the lamp, and it sends these commands whenever the Echo receives a particular voice command.  https://randomnerdtutorials.com/alexa-echo-with-esp32-and-esp8266/
 
-9. **Cheap satellite transponder**:  https://hackaday.io/project/1233-cheap-satellite-transponder
+9. **Air quality monitor**: A good low-cost air quality monitor can definitely be helpful in the household where rooms can get stuffy at times. It would be useful to have one of these providing real-time data regarding the temperature and relative humidity of the air in the room. This data can then be transmitted to a web server and be displayed. https://www.hackster.io/abid_hossain/air-quality-monitor-5f6afe
 
 10. **TapLock**: It uses an accelerometer to detect a tap. The tapping pattern is then analysed by an ML model and matched with the 'password' pattern. This finally opens the lock. It seems like a feasible project that involves ML and detection through the accelerometer sensor. https://www.hackster.io/taplock/taplock-a-bike-lock-with-machine-learning-85641c
 
