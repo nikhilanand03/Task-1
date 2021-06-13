@@ -8,7 +8,7 @@ This is an EEG brain-wave controlled smart home. It uses motor imagery using EEG
 2. **Biomonitor**: 
 This is a device to measure mild electrical signals coming from the brain or from the heart. These signals need to be detected and then amplified, so both these aspects are taken care of in this project, before the signals are collected in the bluetooth module and dispatched. Link: https://hackaday.io/project/6760-biomonitor
 
-3. **Landbeest walking robot**: This is an interesting walking mini-robot that can navigate terrain and walk within the house. It uses 2 servo motors, and a certain mechanical action that allows it to move. The motivation was to tackle the issues in robots with wheels which get stuck in certain places pretty often. Link: https://hackaday.io/project/165554-normal-air-conditioner-becomes-wifi-controlled
+3. **Landbeest walking robot**: This is an interesting walking mini-robot that can navigate terrain and walk within the house. It uses 2 servo motors, and a certain mechanical action that allows it to move. The motivation was to tackle the issues in robots with wheels which get stuck in certain places pretty often. Link: https://hackaday.io/project/163654-landbeest-walking-robot
 
 4. **Make air conditioner wifi-controlled**: 
 In this project, we use an ESP8266 board which is positioned in a certain place to directly communicate with the AC through infrared. You can communicate with this controller using wifi on a smartphone app, and the AC is now effectively wifi-controlled. Not just that, additional features can be added (the controller can be made to detect room temperature/humidity and automatically adjust the AC). Link: https://hackaday.io/project/165554-normal-air-conditioner-becomes-wifi-controlled
