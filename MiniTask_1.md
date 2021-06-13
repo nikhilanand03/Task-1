@@ -27,6 +27,8 @@ In this project, we use an ESP8266 board which is positioned in a certain place 
 
 8. **Voice-controlled household lamps**: In this project, we create lamps that can be switched on and off through voice control. Essentially, the ESP32 microcontroller gets commands from an Amazon Echo device to toggle the lamp switch. The Amazon Echo device is paired up with the lamp, and it sends these commands whenever the Echo receives a particular voice command.  https://randomnerdtutorials.com/alexa-echo-with-esp32-and-esp8266/
 
+![Project 10](https://github.com/nikhilanand03/Task-1/blob/master/Voice%20controlled%20lamp.gif)
+
 9. **Air quality monitor**: A good low-cost air quality monitor can definitely be helpful in the household where rooms can get stuffy at times. It would be useful to have one of these providing real-time data regarding the temperature and relative humidity of the air in the room. This data can then be transmitted to a web server and be displayed. https://www.hackster.io/abid_hossain/air-quality-monitor-5f6afe
 
 10. **TapLock**: It uses an accelerometer to detect a tap. The tapping pattern is then analysed by an ML model and matched with the 'password' pattern. This finally opens the lock. It seems like a feasible project that involves ML and detection through the accelerometer sensor. https://www.hackster.io/taplock/taplock-a-bike-lock-with-machine-learning-85641c
@@ -34,6 +36,8 @@ In this project, we use an ESP8266 board which is positioned in a certain place 
 ![Project 10](https://github.com/nikhilanand03/Task-1/blob/master/TapLock.png)
 
 11. **Plant monitoring with IoT app**: This plant monitoring system can be useful in agriculture and in the household. Essentially, it measures data points on soil moisture, humidity, and temperature and updates it via an IoT app to the cloud real-time. Graphs can then be plotted on the app and analysed. https://www.hackster.io/magicbit0/esp32-plant-monitoring-with-arduino-iot-cloud-remote-app-fa4b75
+
+![Project 10](https://github.com/nikhilanand03/Task-1/blob/master/Soil-Moisture-Sensor-Working.gif)
 
 12. **CAM pan and tilt web server**: This project uses two servo motors to rotate/move a camera along two axes. PWM signals are used to control the servo motors. Then we can couple this with a webpage and buttons on the page are used to remotely control the motors, thereby moving the camera. Whatever the camera captures is also displayed on the webpage. https://randomnerdtutorials.com/esp32-cam-pan-and-tilt-2-axis/
 
@@ -44,3 +48,5 @@ In this project, we use an ESP8266 board which is positioned in a certain place 
 14. **DIY blood oxygen meter**: We can use the MAX oximeter sensor to directly detect blood oxygen levels. The data can then be fed to a mobile app and the app can display the value. https://www.instructables.com/DIY-Blood-Oxygen-Meter/
 
 15. **Solar charging LiPo project**: This is a simple but interesting project that could be pretty useful to plot out the performance of a solar panel with change in weather conditions, time of the day, etc. It essentially calculates the voltage that the solar cell produces across the LiPo battery, and this data can be sent to a web server for plotting. https://hackaday.io/project/649-solar-charging-lipo-project
+
+![Project 10](https://github.com/nikhilanand03/Task-1/blob/master/solar_pv_diagram.gif)
