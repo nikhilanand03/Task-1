@@ -29,7 +29,7 @@ In this project, we use an ESP8266 board which is positioned in a certain place 
 
 12. **CAM pan and tilt web server**: This project uses two servo motors to rotate/move a camera along two axes. PWM signals are used to control the servo motors. Then we can couple this with a webpage and buttons on the page are used to remotely control the motors, thereby moving the camera. Whatever the camera captures is also displayed on the webpage. https://randomnerdtutorials.com/esp32-cam-pan-and-tilt-2-axis/
 
-![Project 12](.\Cam\ pan-and-tilt.png)
+![Project 12](.\Landbeest.png)
 
 13. **OpenCV colour detection and tracking**: In this project, we create a web server which displays the video signals coming from a camera. Then, the software uses OpenCV to detect and look for a specific coloured object and track its centre of mass. https://randomnerdtutorials.com/esp32-cam-opencv-js-color-detection-tracking/
 
