@@ -40,8 +40,10 @@ The first prototype used an Amazon Echo to collect voice commands and send those
 -  Amazon Echo: _Advantages_: It's relatively easy to use and to pair up with your lamps. The voice commands can easily be programmed and be sent to the lamps to change their state. _Disadvantages_: The main disadvantage here is that if we are planning on making a full-fledged product, then we obviously can't be pairing it up with something as expensive as an Amazon Echo, which offers way more features than we require. We can work on a less sophisticated substitute in the second prototype of our product. 
 
 **Choosing a pipeline**:
-Now, we need to essentially use a voice recognition module, and work on providing speech recognition functionality to the product. This can then be integrated with the lamps and this can be the basis for the next prototype.
+
+Now, we need to use a voice recognition module, and work on providing speech recognition functionality to the product. This can then be integrated with the lamps and this can be the basis for the next prototype.
 
 **Prototyping phase**:
+
 Our ideas can be implemented and an appropriate speech recognition module can be created and programmed. Then we'll try to allow it to send signals to the lamp in order to complete our second prototype.
 
