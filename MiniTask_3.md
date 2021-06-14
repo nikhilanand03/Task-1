@@ -67,6 +67,11 @@ Once the issue is located, it should be fixed. If any part is malfunctioning, it
 
 **Troubleshooting**
 
+The following components are involved in this project:
+- Microcontroller
+- Lamps
+- Voice-recognition unit
+
 1. Check that the microcontroller is working fine (follow the same steps as in the above tutorial).
 2. First, check that the voice-recognition unit is working fine. Try to say commands and log the text onto the serial monitor, just to confirm this.
 3. Then, check that the lamps are working. Make sure that they have battery, and also, ensure that when you hard-code the command to switch the lamp on and send it to the lamp through the microcontroller, it responds appropriately.
