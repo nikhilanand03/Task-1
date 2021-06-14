@@ -21,7 +21,7 @@ _Disadvantages_: Not a really well-known/common technology, as opposed to creati
 
 Looking at the pros and cons of the technologies used, we can come up with the following improvements:
 - First, the Arduino UNO microcontroller needs to be replaced with a relatively less bulky microcontroller, which can be coupled with an accelerometer and a bluetooth module. As the locking mechanism can tend to take up some space, it's better that the microcontroller takes as little space as possible. There are ESP32-based boards in the market that are smaller in size, and have better functionality, so I would suggest using that.
-- Regarding the Bluetooth module, for the purpose of this project, it makes sense to only control the lock from short ranges, and hence, there seems no need to upgrade to a wifi module.
+- Regarding the Bluetooth module, for the purpose of this project, it makes sense to only control the lock from short ranges, and hence, there seems no need to upgrade to a wifi module. In case we want to add some functionality such that information of the bike can be retrieved at long ranges (such as in Yulu bikes), we can consider this in a later prototype.
 - The ML model created on edge impulse probably has no issues, but in case new people are working on the project we can probably recreate the model directly using common Python ML libraries, as they are more widespread and would be a good modification if this project is worked on further in the future.
 
 **Prototyping phase**:
