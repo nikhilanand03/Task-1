@@ -1,4 +1,4 @@
-**TAPLOCK**
+**TapLock**
 
 The essential idea of the product is a microcontroller which can detect and recognise a certain tapping sequence as a password, and can communicate via bluetooth to a phone. The exact locking mechanism hasn't really been planned, and the product can be integrated anywhere on the bike to lock.
 
@@ -29,3 +29,7 @@ Looking at the pros and cons of the technologies used, we can come up with the f
 **Prototyping phase**:
 
 Now, these improvements need to be implemented. The coding needs to be done for the new microcontroller and the prototype can be created again but with these modifications, as I think that will make a big difference to the final product.
+
+
+
+
