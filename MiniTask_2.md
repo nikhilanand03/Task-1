@@ -1,10 +1,8 @@
-**TapLock**
-
-The essential idea of the product is a microcontroller which can detect and recognise a certain tapping sequence as a password, and can communicate via bluetooth to a phone. The exact locking mechanism hasn't really been planned, and the product can be integrated anywhere on the bike to lock.
+1. **TapLock**
 
 **Problem Statement**: 
 
-Unlocking bikes has become extremely difficult, so the ultimate goal of TapLock is to make this process really simple, by providing a locking mount onto the bike, which will open when the correct tapping pattern is applied. This idea allows us to lock and unlock the bike easily. 
+Unlocking bikes has become extremely difficult, so the ultimate goal of TapLock is to make this process really simple, by providing a locking mount onto the bike, which will open when the correct tapping pattern is applied. This idea allows us to lock and unlock the bike easily. The essence of the product is a microcontroller which can detect and recognise a certain tapping sequence as a password, and can communicate via bluetooth to a phone. However, the exact locking mechanism hasn't really been planned, and the product can be integrated anywhere on the bike to lock.
 
 **Ideation and Planning**:
 
@@ -30,6 +28,20 @@ Looking at the pros and cons of the technologies used, we can come up with the f
 
 Now, these improvements need to be implemented. The coding needs to be done for the new microcontroller and the prototype can be created again but with these modifications, as I think that will make a big difference to the final product.
 
+2. **Voice-controlled lamp**
 
+**Problem Statement**: 
 
+This project is based on the idea of making a pair of lamps which can be turned on and off using simple voice commands. There are commands that can turn each lamp individually on/off, as well as a command to simultaneously switch both on/off.
+
+**Ideation and Planning**:
+
+The first prototype used an Amazon Echo to collect voice commands and send those signals to the lamp. The following characteristics can be improved upon:
+-  Amazon Echo: _Advantages_: It's relatively easy to use and to pair up with your lamps. The voice commands can easily be programmed and be sent to the lamps to change their state. _Disadvantages_: The main disadvantage here is that if we are planning on making a full-fledged product, then we obviously can't be pairing it up with something as expensive as an Amazon Echo, which offers way more features than we require. We can work on a less sophisticated substitute in the second prototype of our product. 
+
+**Choosing a pipeline**:
+Now, we need to essentially use a voice recognition module, and work on providing speech recognition functionality to the product. This can then be integrated with the lamps and this can be the basis for the next prototype.
+
+**Prototyping phase**:
+Our ideas can be implemented and an appropriate speech recognition module can be created and programmed. Then we'll try to allow it to send signals to the lamp in order to complete our second prototype.
 
