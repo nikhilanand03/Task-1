@@ -1,4 +1,4 @@
-1. **TapLock**
+## **TapLock**
 
 **Problem Statement**: 
 
@@ -28,7 +28,7 @@ Looking at the pros and cons of the technologies used, we can come up with the f
 
 Now, these improvements need to be implemented. The coding needs to be done for the new microcontroller and the prototype can be created again but with these modifications, as I think that will make a big difference to the final product.
 
-2. **Voice-controlled lamp**
+## **Voice-controlled lamp**
 
 **Problem Statement**: 
 
