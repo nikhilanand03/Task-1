@@ -2,8 +2,10 @@ Documentation of Mini-Task 1 -
 
 Here are the 15 projects:
 
-1. **Brainmotic**: 
-This is an EEG brain-wave controlled smart home. It uses motor imagery using EEG electrodes to allow people to control various devices within their house like light switches, sockets, etc, through a smart device user interface. This is one of the slightly more difficult projects to replicate as research needs to be done regarding the analysis of these EEG signals. Link: https://hackaday.io/project/10600-brainmotic
+1. **Make air conditioner wifi-controlled**: 
+In this project, we use an ESP8266 board which is positioned in a certain place to directly communicate with the AC through infrared. You can communicate with this controller using wifi on a smartphone app, and the AC is now effectively wifi-controlled. Not just that, additional features can be added (the controller can be made to detect room temperature/humidity and automatically adjust the AC). Link: https://hackaday.io/project/165554-normal-air-conditioner-becomes-wifi-controlled
+
+![Project 4](https://github.com/nikhilanand03/Task-1/blob/master/Wifi-controlled%20air-conditioner.png)
 
 2. **Biomonitor**: 
 This is a device to measure mild electrical signals coming from the brain or from the heart. These signals need to be detected and then amplified, so both these aspects are taken care of in this project, before the signals are collected in the bluetooth module and dispatched. Link: https://hackaday.io/project/6760-biomonitor
@@ -12,10 +14,8 @@ This is a device to measure mild electrical signals coming from the brain or fro
 
 ![Project 3](https://github.com/nikhilanand03/Task-1/blob/master/Landbeest.png)
 
-4. **Make air conditioner wifi-controlled**: 
-In this project, we use an ESP8266 board which is positioned in a certain place to directly communicate with the AC through infrared. You can communicate with this controller using wifi on a smartphone app, and the AC is now effectively wifi-controlled. Not just that, additional features can be added (the controller can be made to detect room temperature/humidity and automatically adjust the AC). Link: https://hackaday.io/project/165554-normal-air-conditioner-becomes-wifi-controlled
-
-![Project 4](https://github.com/nikhilanand03/Task-1/blob/master/Wifi-controlled%20air-conditioner.png)
+4. **Brainmotic**: 
+This is an EEG brain-wave controlled smart home. It uses motor imagery using EEG electrodes to allow people to control various devices within their house like light switches, sockets, etc, through a smart device user interface. This is one of the slightly more difficult projects to replicate as research needs to be done regarding the analysis of these EEG signals. Link: https://hackaday.io/project/10600-brainmotic
 
 5. **Belle**: This is a useful add-on that can be installed alongside doorbells in order to detect the event of the doorbell ringing by picking up signals directly from it, and then sending those signals through the IFTTT IoT interface to be able to notify you about it. https://hackaday.io/project/26347-belle-door-bell-alert-with-esp8266-ifttt
 
